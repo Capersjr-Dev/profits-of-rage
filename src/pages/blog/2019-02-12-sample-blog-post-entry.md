@@ -8,10 +8,8 @@ description: >-
 ---
 # The Time is Now
 
-
-
-I have looked high and low to find a CMS that can satisfy my myriad uses. This might be the one. But I need to _**review**_ it all.
+I have looked high and low to find a CMS that can satisfy my myriad uses. This might be the one. But I need to **_review_** it all.
 
 ![](/img/d29f5eea-172a-49f5-8248-346c30cdd343.jpeg "Dramatic Clouds")
 
- Once I have this knocked down I can work on customizing it to my style and color palette.
+ Once I have this knocked down I can work on customizing it to my style and color palette. Or I can leave it plain.
